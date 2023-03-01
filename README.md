@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 
+<img src="https://raw.githubusercontent.com/michamn/michamn/main/dist/test.png" alt="Alt text" title="Optional title">
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michamn/michamn/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michamn/michamn/output/github-contribution-grid-snake.svg" />
