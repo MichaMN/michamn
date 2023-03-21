@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-<img src="https://raw.githubusercontent.com/michamn/michamn/main/dist/test.png" alt="Alt text" title="Optional title">
-
+### 👋
 
 
 <picture>
